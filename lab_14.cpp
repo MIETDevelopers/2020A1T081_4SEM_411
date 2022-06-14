@@ -1,5 +1,4 @@
-// CPP program to illustrate
-// parameterized constructors
+// Program to illustrate parameterized constructors
 #include <iostream>
 using namespace std;
 
